@@ -1,1 +1,5 @@
 # pylons_export_state
+
+sha256sum pylons.json
+
+887773ef71e183865da14a4dad714d883ae47aa7377b2d9f68720bbe4514797c
